@@ -1,1 +1,1 @@
-Github and Git navigations
+Github Navigation updated with gui.

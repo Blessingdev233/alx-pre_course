@@ -1,1 +1,3 @@
-Github Navigation updated with gui.
+# Github Navigation :ledger:
+
+* Update soon
